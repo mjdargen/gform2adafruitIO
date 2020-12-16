@@ -1,0 +1,4 @@
+requests
+webcolors
+adafruit-io
+python-dotenv
