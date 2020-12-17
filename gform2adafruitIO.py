@@ -1,5 +1,4 @@
-# Google Form to Adafruit IO for Marquee Sign
-# Publish Data Automatically from Google Form to Adafruit IO
+# gform2adafruitIO: Automatic Marquee Driven by Google Form/Adafruit IO
 #
 # Michael D'Argenio
 # mjdargen@gmail.com
@@ -15,10 +14,10 @@
 # for new submissions, vet the submission data to confirm the data is valid,
 # then push the data to your Adafruit IO feed.
 #
-# This example program shows uses the Adafruit Matrix Portal to make a Marquee
-# Sign that anyone can submit text to. The Google Form asks the user for text
-# and a color. The program ensures the color is valid and the text is profanity-
-# free (as profanity-free as possible). The program then publishes the data to
+# This example program uses the Adafruit Matrix Portal to make a Marquee Sign
+# that anyone can submit text to. The Google Form asks the user for text and
+# a color. The program ensures the color is valid and the text is profanity-free
+# (as profanity-free as possible). The program then publishes the data to
 # Adafruit IO. The Matrix Portal pulls this information down from Adafruit IO
 # to scroll across the display.
 #
