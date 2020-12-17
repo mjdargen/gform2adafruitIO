@@ -14,7 +14,8 @@ This program shows how to easily link a Google Form with Adafruit IO feeds. Inst
 
 This example program uses the Adafruit Matrix Portal to make a Marquee Sign that anyone can submit text to. The Google Form asks the user for text and a color. The program ensures the color is valid and the text is profanity-free (as profanity-free as possible). The program then publishes the data to Adafruit IO. The Matrix Portal pulls this information down from Adafruit IO to scroll across the display.
 
-You can follow the directions below or check out this Instructable for more info: https://www.instructables.com/Gform2adafruitIO-Automatic-Marquee-Driven-by-Googl/
+You can follow the directions below or check out this Instructable for more info: https://www.instructables.com/Gform2adafruitIO-Automatic-Marquee-Driven-by-Googl/  
+Or if Hackster is more your style, you can check out this tutorial here: https://www.hackster.io/mjdargen/gform2adafruitio-marquee-driven-by-google-form-adafruit-io-b31e81
 
 ## Installation/Set-Up/Execution Steps
 * Clone repository:
