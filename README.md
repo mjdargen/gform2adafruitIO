@@ -3,7 +3,7 @@ Python script to automatically publish data from Google Form to Adafruit IO.
 
 *Michael D'Argenio  
 mjdargen@gmail.com  
-https://dargenio.dev  
+https://dargen.io   
 https://github.com/mjdargen  
 Created: December 12, 2020  
 Last Modified: December 12, 2020*  
